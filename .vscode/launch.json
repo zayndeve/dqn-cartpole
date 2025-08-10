@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Train Script",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/train.py",
+            "console": "integratedTerminal",
+        },
+        {
+            "name": "Run Test Script",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/test.js",
+            "console": "integratedTerminal"
+        }
+    ]
+}

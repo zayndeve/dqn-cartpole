@@ -1,0 +1,197 @@
+[Episode    1] reward= 14.0  eps=0.932
+[Episode    2] reward=  9.0  eps=0.891
+[Episode    3] reward= 12.0  eps=0.839
+[Episode    4] reward= 19.0  eps=0.763
+[Episode    5] reward= 16.0  eps=0.704
+[Episode    6] reward= 19.0  eps=0.640
+[Episode    7] reward= 11.0  eps=0.606
+[Episode    8] reward= 10.0  eps=0.576
+[Episode    9] reward= 11.0  eps=0.545
+[Episode   10] reward= 10.0  eps=0.519
+[Episode   11] reward= 16.0  eps=0.479
+[Episode   12] reward=  9.0  eps=0.458
+[Episode   13] reward= 10.0  eps=0.435
+[Episode   14] reward= 11.0  eps=0.412
+[Episode   15] reward= 13.0  eps=0.386
+[Episode   16] reward= 18.0  eps=0.353
+[Episode   17] reward=  9.0  eps=0.337
+[Episode   18] reward= 12.0  eps=0.317
+[Episode   19] reward=  9.0  eps=0.303
+[Episode   20] reward= 14.0  eps=0.283
+[Episode   21] reward=  9.0  eps=0.270
+[Episode   22] reward=  8.0  eps=0.260
+[Episode   23] reward= 13.0  eps=0.243
+[Episode   24] reward=  9.0  eps=0.233
+[Episode   25] reward=  9.0  eps=0.222
+[Episode   26] reward= 11.0  eps=0.210
+[Episode   27] reward= 18.0  eps=0.192
+[Episode   28] reward= 13.0  eps=0.180
+[Episode   29] reward=  9.0  eps=0.172
+[Episode   30] reward= 10.0  eps=0.164
+[Episode   31] reward=  9.0  eps=0.157
+[Episode   32] reward= 10.0  eps=0.149
+[Episode   33] reward= 10.0  eps=0.142
+[Episode   34] reward= 10.0  eps=0.135
+[Episode   35] reward= 12.0  eps=0.127
+[Episode   36] reward= 11.0  eps=0.120
+[Episode   37] reward= 12.0  eps=0.113
+[Episode   38] reward= 11.0  eps=0.107
+[Episode   39] reward= 12.0  eps=0.101
+[Episode   40] reward=  9.0  eps=0.096
+[Episode   41] reward= 10.0  eps=0.092
+[Episode   42] reward= 10.0  eps=0.087
+[Episode   43] reward=  9.0  eps=0.083
+[Episode   44] reward= 11.0  eps=0.079
+[Episode   45] reward= 13.0  eps=0.074
+[Episode   46] reward= 11.0  eps=0.070
+[Episode   47] reward= 11.0  eps=0.066
+[Episode   48] reward=  8.0  eps=0.063
+[Episode   49] reward=  8.0  eps=0.061
+[Episode   50] reward= 10.0  eps=0.058
+[Episode   51] reward= 12.0  eps=0.055
+[Episode   52] reward= 11.0  eps=0.052
+[Episode   53] reward= 12.0  eps=0.050
+[Episode   54] reward=  8.0  eps=0.050
+[Episode   55] reward= 12.0  eps=0.050
+[Episode   56] reward= 10.0  eps=0.050
+[Episode   57] reward= 10.0  eps=0.050
+[Episode   58] reward= 12.0  eps=0.050
+[Episode   59] reward= 11.0  eps=0.050
+[Episode   60] reward= 12.0  eps=0.050
+[Episode   61] reward= 10.0  eps=0.050
+[Episode   62] reward= 12.0  eps=0.050
+[Episode   63] reward= 11.0  eps=0.050
+[Episode   64] reward= 11.0  eps=0.050
+[Episode   65] reward= 10.0  eps=0.050
+[Episode   66] reward= 11.0  eps=0.050
+[Episode   67] reward= 10.0  eps=0.050
+[Episode   68] reward= 10.0  eps=0.050
+[Episode   69] reward=  8.0  eps=0.050
+[Episode   70] reward=  9.0  eps=0.050
+[Episode   71] reward= 12.0  eps=0.050
+[Episode   72] reward= 11.0  eps=0.050
+[Episode   73] reward= 10.0  eps=0.050
+[Episode   74] reward= 10.0  eps=0.050
+[Episode   75] reward= 12.0  eps=0.050
+[Episode   76] reward= 11.0  eps=0.050
+[Episode   77] reward= 13.0  eps=0.050
+[Episode   78] reward= 11.0  eps=0.050
+[Episode   79] reward= 13.0  eps=0.050
+[Episode   80] reward= 11.0  eps=0.050
+[Episode   81] reward= 16.0  eps=0.050
+[Episode   82] reward= 11.0  eps=0.050
+[Episode   83] reward= 16.0  eps=0.050
+[Episode   84] reward= 17.0  eps=0.050
+[Episode   85] reward= 13.0  eps=0.050
+[Episode   86] reward= 15.0  eps=0.050
+[Episode   87] reward= 13.0  eps=0.050
+[Episode   88] reward= 15.0  eps=0.050
+[Episode   89] reward= 11.0  eps=0.050
+[Episode   90] reward= 11.0  eps=0.050
+[Episode   91] reward= 14.0  eps=0.050
+[Episode   92] reward= 13.0  eps=0.050
+[Episode   93] reward= 14.0  eps=0.050
+[Episode   94] reward= 18.0  eps=0.050
+[Episode   95] reward= 14.0  eps=0.050
+[Episode   96] reward= 16.0  eps=0.050
+[Episode   97] reward= 15.0  eps=0.050
+[Episode   98] reward= 16.0  eps=0.050
+[Episode   99] reward= 19.0  eps=0.050
+[Episode  100] reward= 41.0  eps=0.050
+[Episode  101] reward= 16.0  eps=0.050
+[Episode  102] reward= 11.0  eps=0.050
+[Episode  103] reward= 11.0  eps=0.050
+[Episode  104] reward= 15.0  eps=0.050
+[Episode  105] reward= 15.0  eps=0.050
+[Episode  106] reward= 14.0  eps=0.050
+[Episode  107] reward= 24.0  eps=0.050
+[Episode  108] reward= 21.0  eps=0.050
+[Episode  109] reward= 24.0  eps=0.050
+[Episode  110] reward= 35.0  eps=0.050
+[Episode  111] reward= 16.0  eps=0.050
+[Episode  112] reward= 19.0  eps=0.050
+[Episode  113] reward= 23.0  eps=0.050
+[Episode  114] reward= 32.0  eps=0.050
+[Episode  115] reward= 30.0  eps=0.050
+[Episode  116] reward= 47.0  eps=0.050
+[Episode  117] reward= 40.0  eps=0.050
+[Episode  118] reward= 36.0  eps=0.050
+[Episode  119] reward= 75.0  eps=0.050
+[Episode  120] reward= 27.0  eps=0.050
+[Episode  121] reward= 33.0  eps=0.050
+[Episode  122] reward= 17.0  eps=0.050
+[Episode  123] reward= 25.0  eps=0.050
+[Episode  124] reward= 21.0  eps=0.050
+[Episode  125] reward= 36.0  eps=0.050
+[Episode  126] reward= 17.0  eps=0.050
+[Episode  127] reward= 21.0  eps=0.050
+[Episode  128] reward= 21.0  eps=0.050
+[Episode  129] reward= 20.0  eps=0.050
+[Episode  130] reward= 14.0  eps=0.050
+[Episode  131] reward= 21.0  eps=0.050
+[Episode  132] reward= 32.0  eps=0.050
+[Episode  133] reward= 27.0  eps=0.050
+[Episode  134] reward= 77.0  eps=0.050
+[Episode  135] reward= 52.0  eps=0.050
+[Episode  136] reward= 57.0  eps=0.050
+[Episode  137] reward= 32.0  eps=0.050
+[Episode  138] reward= 43.0  eps=0.050
+[Episode  139] reward= 32.0  eps=0.050
+[Episode  140] reward= 43.0  eps=0.050
+[Episode  141] reward= 37.0  eps=0.050
+[Episode  142] reward= 45.0  eps=0.050
+[Episode  143] reward=102.0  eps=0.050
+[Episode  144] reward= 52.0  eps=0.050
+[Episode  145] reward= 53.0  eps=0.050
+[Episode  146] reward= 49.0  eps=0.050
+[Episode  147] reward= 67.0  eps=0.050
+[Episode  148] reward= 44.0  eps=0.050
+[Episode  149] reward= 53.0  eps=0.050
+[Episode  150] reward= 48.0  eps=0.050
+[Episode  151] reward=103.0  eps=0.050
+[Episode  152] reward= 42.0  eps=0.050
+[Episode  153] reward= 88.0  eps=0.050
+[Episode  154] reward= 64.0  eps=0.050
+[Episode  155] reward= 55.0  eps=0.050
+[Episode  156] reward= 60.0  eps=0.050
+[Episode  157] reward= 80.0  eps=0.050
+[Episode  158] reward=123.0  eps=0.050
+[Episode  159] reward=175.0  eps=0.050
+[Episode  160] reward= 87.0  eps=0.050
+[Episode  161] reward= 51.0  eps=0.050
+[Episode  162] reward= 82.0  eps=0.050
+[Episode  163] reward= 55.0  eps=0.050
+[Episode  164] reward= 50.0  eps=0.050
+[Episode  165] reward= 69.0  eps=0.050
+[Episode  166] reward=177.0  eps=0.050
+[Episode  167] reward= 58.0  eps=0.050
+[Episode  168] reward=115.0  eps=0.050
+[Episode  169] reward= 70.0  eps=0.050
+[Episode  170] reward= 67.0  eps=0.050
+[Episode  171] reward=154.0  eps=0.050
+[Episode  172] reward=126.0  eps=0.050
+[Episode  173] reward= 90.0  eps=0.050
+[Episode  174] reward= 66.0  eps=0.050
+[Episode  175] reward= 81.0  eps=0.050
+[Episode  176] reward= 72.0  eps=0.050
+[Episode  177] reward= 76.0  eps=0.050
+[Episode  178] reward= 71.0  eps=0.050
+[Episode  179] reward= 77.0  eps=0.050
+[Episode  180] reward=201.0  eps=0.050
+[Episode  181] reward= 98.0  eps=0.050
+[Episode  182] reward=102.0  eps=0.050
+[Episode  183] reward= 86.0  eps=0.050
+[Episode  184] reward=108.0  eps=0.050
+[Episode  185] reward=197.0  eps=0.050
+[Episode  186] reward=114.0  eps=0.050
+[Episode  187] reward=207.0  eps=0.050
+[Episode  188] reward=165.0  eps=0.050
+[Episode  189] reward=295.0  eps=0.050
+[Episode  190] reward=161.0  eps=0.050
+[Episode  191] reward=241.0  eps=0.050
+[Episode  192] reward=300.0  eps=0.050
+[Episode  193] reward=170.0  eps=0.050
+[Episode  194] reward=500.0  eps=0.050
+Reached target reward. Stopping training.
+[OK] Saved learning curve → saved_models/learning_curve.png
+[INFO] Weights are in saved_models/best.pt and saved_models/last.pt
