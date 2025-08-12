@@ -120,9 +120,10 @@ results/20250812-153000/videos/cartpole-episode-1.mp4
 
 #### Learning Curve
 Reward progression per episode during training:
+![Learning Curve]
+<img width="571" height="455" alt="learning_curve" src="https://github.com/user-attachments/assets/2ed0932b-f2f0-4fae-8ab0-fd79e96e545b" />
 
-![Learning Curve](results/20250812-153000/learning_curve.png)
-*(Replace with your actual run path.)*
+
 
 #### Training Log (Excerpt)
 Example console log output:
@@ -138,8 +139,10 @@ Reached target reward. Stopping training.
 #### Evaluation Video
 Example of the trained agent balancing the pole:
 
-[![Evaluation Video](results/20250812-153000/videos/video_thumbnail.png)](results/20250812-153000/videos/cartpole-episode-1.mp4)
-*(Click to open the video. Update paths as needed.)*
+![Evaluation Video]
+https://github.com/user-attachments/assets/108850e2-8500-4ae6-a58a-84d5a2a94a47
+
+
 
 ## Reproducibility
 
