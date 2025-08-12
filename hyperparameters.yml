@@ -1,24 +1,26 @@
 # hyperparameters.yml
 # -------------------------------------------------
-# Configuration profiles for different runs.
-# Select profile with: python train.py <profile>
+# Configuration profiles for different training runs.
+# Select a profile using:
+#   python train.py <profile>
 # -------------------------------------------------
 
 cartpole1:
-  env_id: CartPole-v1
-  replay_memory_size: 50000
-  mini_batch_size: 64
-  epsilon_init: 1.0
-  epsilon_min: 0.05
-  start_learning_steps: 1000 # (keep)
-  epsilon_frames: 5000 # ↓ was 20000, decay much faster after warm-up
-  network_sync_rate: 200 # faster target sync now that learning is steadier
-  learning_rate_a: 0.001
-  discount_factor_g: 0.99
-  stop_on_reward: 500
-  fc1_nodes: 256 # use a bigger model with the new 2-layer MLP
-  enable_double_dqn: false
-  enable_dueling_dqn: false
+  env_id: CartPole-v1 # Gymnasium environment ID
+  replay_memory_size: 50000 # Max number of stored transitions in replay buffer
+  mini_batch_size: 64 # Batch size for optimization
+  epsilon_init: 1.0 # Initial ε for ε-greedy exploration
+  epsilon_min: 0.05 # Minimum ε after decay
+  start_learning_steps: 1000 # Number of steps before starting to learn (replay warm-up)
+  epsilon_frames: 5000 # Steps over which ε decays after warm-up (was 20000; faster decay now)
+  network_sync_rate: 200 # Steps between target network hard updates
+  learning_rate_a: 0.001 # Learning rate for Adam optimizer
+  discount_factor_g: 0.99 # Discount factor γ for future rewards
+  stop_on_reward: 500 # Stop training if this reward is reached in an episode
+  fc1_nodes: 256 # Number of hidden units in each fully connected layer
+  enable_double_dqn: false # Whether to use Double DQN
+  enable_dueling_dqn: false # Whether to use Dueling DQN
+
 # Example alternative profile with Double DQN enabled:
 # cartpole1_double:
 #   env_id: CartPole-v1

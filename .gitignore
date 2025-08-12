@@ -1,7 +1,20 @@
+# Virtual environment folder (Python venv)
 .venv/
+
+# Python compiled bytecode cache
 __pycache__/
+
+# Python compiled files
 *.pyc
+
+# Folder to store trained models
 saved_models/
+
+# AI-related temporary files
 .ai
+
+# (Duplicate) Python compiled files pattern
 *.pyc
+
+# macOS system file (unnecessary in repo)
 .DS_Store

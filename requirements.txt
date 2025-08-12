@@ -1,4 +1,11 @@
+# Core environment library (classic control, CartPole, etc.)
 gymnasium==0.29.1
+
+# PyTorch (CPU/GPU). Pin a minimum; use a CUDA-specific wheel if needed.
 torch>=2.1
+
+# Numerical ops and arrays
 numpy>=1.23
+
+# Plotting for learning curves
 matplotlib>=3.7
