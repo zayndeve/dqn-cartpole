@@ -116,7 +116,30 @@ results/20250812-153000/learning_curve.png
 results/20250812-153000/videos/cartpole-episode-1.mp4
 ```
 
-*(Replace timestamp with your actual run folder name.)*
+### Example Training Output
+
+#### Learning Curve
+Reward progression per episode during training:
+
+![Learning Curve](results/20250812-153000/learning_curve.png)
+*(Replace with your actual run path.)*
+
+#### Training Log (Excerpt)
+Example console log output:
+```
+[Episode    1] reward= 12.0  eps=1.000
+[Episode    2] reward= 25.0  eps=0.995
+...
+[Episode   88] reward=500.0  eps=0.051
+Reached target reward. Stopping training.
+```
+*(You can also use a screenshot of your terminal output here.)*
+
+#### Evaluation Video
+Example of the trained agent balancing the pole:
+
+[![Evaluation Video](results/20250812-153000/videos/video_thumbnail.png)](results/20250812-153000/videos/cartpole-episode-1.mp4)
+*(Click to open the video. Update paths as needed.)*
 
 ## Reproducibility
 
