@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 saved_models/
 .ai
+*.pyc
+.DS_Store

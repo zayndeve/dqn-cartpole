@@ -1,14 +1,36 @@
+# hyperparameters.yml
+# -------------------------------------------------
+# Configuration profiles for different runs.
+# Select profile with: python train.py <profile>
+# -------------------------------------------------
+
 cartpole1:
   env_id: CartPole-v1
-  replay_memory_size: 50000
-  mini_batch_size: 64
-  epsilon_init: 1.0
-  epsilon_decay: 0.995
-  epsilon_min: 0.05
-  network_sync_rate: 200
-  learning_rate_a: 0.0005
-  discount_factor_g: 0.99
-  stop_on_reward: 500
-  fc1_nodes: 128
-  enable_double_dqn: False
-  enable_dueling_dqn: False
+  replay_memory_size: 50000 # size of replay buffer
+  mini_batch_size: 64 # batch size for optimization
+  epsilon_init: 1.0 # initial ε for ε-greedy
+  epsilon_decay: 0.995 # multiplicative decay per step
+  epsilon_min: 0.05 # minimum ε
+  network_sync_rate: 200 # target network hard update frequency (steps)
+  learning_rate_a: 0.0005 # optimizer learning rate
+  discount_factor_g: 0.99 # γ discount factor
+  stop_on_reward: 500 # stop training early if reached
+  fc1_nodes: 128 # hidden layer size in DQN MLP
+  enable_double_dqn: false # professor requires vanilla DQN → false
+  enable_dueling_dqn: false # disable for vanilla DQN
+
+# Example alternative profile with Double DQN enabled:
+# cartpole1_double:
+#   env_id: CartPole-v1
+#   replay_memory_size: 50000
+#   mini_batch_size: 64
+#   epsilon_init: 1.0
+#   epsilon_decay: 0.995
+#   epsilon_min: 0.05
+#   network_sync_rate: 200
+#   learning_rate_a: 0.0005
+#   discount_factor_g: 0.99
+#   stop_on_reward: 500
+#   fc1_nodes: 128
+#   enable_double_dqn: true
+#   enable_dueling_dqn: false
