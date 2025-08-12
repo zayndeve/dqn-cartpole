@@ -1,5 +1,4 @@
-gymnasium>=0.29
-numpy
-torch
-matplotlib
-pyyaml
+gymnasium==0.29.1
+torch>=2.1
+numpy>=1.23
+matplotlib>=3.7
